@@ -1,0 +1,25 @@
+textarea{
+    resize: none;
+}
+.ocupacion ul{
+    list-style: none;
+}
+.horadecontacto ul{
+    list-style: none;
+}
+.comentario label{
+    display: block;
+}
+.boton{
+    line-height: 28px;
+}
+.datospersonales{
+    line-height : 28px
+}
+body{
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.infoemail label{
+    line-height: 30px;
+}
